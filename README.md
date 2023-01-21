@@ -1,6 +1,6 @@
 # rocketseat-nlwsetup-jan-2023-notes-estelaqf
 
-Anotações sobre o HTML - códigos do projeto Habits
+<p> Anotações sobre o HTML - códigos do projeto Habits </p>
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -86,7 +86,7 @@ Anotações sobre o HTML - códigos do projeto Habits
  </body>
 </html>
 
-<h1> Anotações sobre CSS - códigos do projeto Habits </h1>
+<p> Anotações sobre CSS - códigos do projeto Habits </p>
 
   <style>
 
@@ -193,7 +193,7 @@ background: #8B5CF6;
 
 </style>
 
-Anotações sobre o JS - códigos do projeto Habits (rascunho)
+<p> Anotações sobre o JS - códigos do projeto Habits (rascunho) </p>
 variáveis, array
 const
 function
@@ -228,7 +228,11 @@ function add(){
 }
 
 
-Anotações sobre o Github
+<p> Anotações sobre o Github </p>
 Terminal 
 Git bash no pc
 initial commit
+
+criar postífílio
+
+website: http://estelaqf.github.io/rocketseat-nlwsetup-jan-2023-notes-estelaqf
