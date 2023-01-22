@@ -234,7 +234,9 @@ function add(){
 Terminal 
 Git bash no pc
 initial commit
+salvar na máquina e online/nuvem
 
-criar postífílio
+
+criar postífólio, personalizar e profissionalizar o github, para apresentação dos códigos/projetos criados.
 
 website: http://estelaqf.github.io/rocketseat-nlwsetup-jan-2023-notes-estelaqf
