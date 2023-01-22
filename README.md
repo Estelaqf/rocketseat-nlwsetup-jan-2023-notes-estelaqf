@@ -1,5 +1,7 @@
 # rocketseat-nlwsetup-jan-2023-notes-estelaqf
 
+Projeto Habits: https://codepen.io/estelaqf/pen/qByPYww
+
 <p> Anotações sobre o HTML - códigos do projeto Habits </p>
 
 <!DOCTYPE html>
